@@ -4,6 +4,8 @@ Last updated: March 21, 2023
 
 Smart Lifter is committed to protecting your privacy. This Privacy Policy describes our policies and procedures regarding the collection, use, and disclosure of your information when you use the Smart Lifter application.
 
+This Privacy Policy has been created with the help of the [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/free-privacy-policy-generator/).
+
 # Collecting and Using Your Personal Data
 
 ## Types of Data Collected
@@ -19,12 +21,6 @@ Usage data may include information such as your device's screen size, Android ve
 The Company may use Personal Data for the following purposes:
 
 *   **To provide and maintain our Service**, including to monitor the usage of our Service.
-    
-*   **To manage Your Account:** to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
-    
-*   **For the performance of a contract:** the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
-    
-*   **To contact You:** To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
     
 *   **To provide You** with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
     
